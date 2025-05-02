@@ -1,5 +1,5 @@
 # Meus jogos
 ## Sobre
-Este repositório tem como objetivo armazenar de publicar jogos.
+Este repositório tem como objetivo armazenar e publicar meus jogos.
 ## Projetos
-Siga os projetos à seguir:
+[Socker]([link-da-pasta](https://github.com/TUDIBR/Jogos/tree/main/Socker))
