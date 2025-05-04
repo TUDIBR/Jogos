@@ -9,7 +9,6 @@ mixer.init()
 
 posx = 0.5 # Define a posição x do jogador
 
-# Classe do jogo
 class main():
 
 
